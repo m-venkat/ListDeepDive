@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDeepDive", "ListDeepDive\ListDeepDive.csproj", "{86F902C5-FE41-490D-8C45-766958D1DF56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListImplementationTest", "ListDeepDive\ListImplementationTest.csproj", "{86F902C5-FE41-490D-8C45-766958D1DF56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
